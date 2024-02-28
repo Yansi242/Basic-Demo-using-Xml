@@ -1,0 +1,33 @@
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\bin\Debug\net8.0\LoginApiDemo.Common.deps.json
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\bin\Debug\net8.0\LoginApiDemo.Common.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\bin\Debug\net8.0\LoginApiDemo.Common.pdb
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.AssemblyInfoInputs.cache
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.AssemblyInfo.cs
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.csproj.CoreCompileInputs.cache
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\refint\LoginApiDemo.Common.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.pdb
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\ref\LoginApiDemo.Common.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\bin\Debug\net8.0\LoginApiDemo.Common.deps.json
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\bin\Debug\net8.0\LoginApiDemo.Common.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\bin\Debug\net8.0\LoginApiDemo.Common.pdb
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.AssemblyInfoInputs.cache
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.AssemblyInfo.cs
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.csproj.CoreCompileInputs.cache
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\refint\LoginApiDemo.Common.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.pdb
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\ref\LoginApiDemo.Common.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\bin\Debug\net8.0\LoginApiDemo.Common.deps.json
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\bin\Debug\net8.0\LoginApiDemo.Common.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\bin\Debug\net8.0\LoginApiDemo.Common.pdb
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.AssemblyInfoInputs.cache
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.AssemblyInfo.cs
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.csproj.CoreCompileInputs.cache
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\refint\LoginApiDemo.Common.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\LoginApiDemo.Common.pdb
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo.common\obj\Debug\net8.0\ref\LoginApiDemo.Common.dll

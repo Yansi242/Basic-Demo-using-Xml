@@ -1,0 +1,113 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiDemoApp
+build_property.ProjectDir = C:\yansi\Learning\MAUI\Login Maui Xml\MaUiDemoApp\MauiDemoApp\MauiDemoApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Controls/FlyoutHeaderControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Controls.FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\FlyoutHeaderControl.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Views/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Views.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AboutPage.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Views/AdminDashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Views.AdminDashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AdminDashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AdminDashboardPage.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Views/AllNotesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Views.AllNotesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AllNotesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AllNotesPage.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Views/DashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Views.DashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DashboardPage.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Views/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Views.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomePage.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Views/LoadingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Views.LoadingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoadingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoadingPage.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Views/NotePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Views.NotePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NotePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NotePage.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Views/StudentDashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Views.StudentDashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StudentDashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StudentDashboardPage.xaml
+
+[C:/yansi/Learning/MAUI/Login Maui Xml/MaUiDemoApp/MauiDemoApp/MauiDemoApp/Views/TeacherDashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiDemoApp.Views.TeacherDashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TeacherDashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TeacherDashboardPage.xaml

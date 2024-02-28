@@ -1,0 +1,1 @@
+C:\yansi\Learning\MAUI\Login Maui Xml\MaUiDemoApp\MauiDemoApp\MauiDemoApp\MauiDemoApp.csproj;x64

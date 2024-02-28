@@ -1,0 +1,159 @@
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\appsettings.json
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.exe
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.deps.json
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.runtimeconfig.json
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.pdb
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Dapper.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Common.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Data.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Model.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Service.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Data.pdb
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Service.pdb
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Common.pdb
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Model.pdb
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.csproj.AssemblyReference.cache
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.AssemblyInfoInputs.cache
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.AssemblyInfo.cs
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.csproj.CoreCompileInputs.cache
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.LoginApiDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginApiDemo.props
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginApiDemo.props
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginApiDemo.props
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\scopedcss\bundle\LoginApiDemo.styles.css
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.csproj.CopyComplete
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\refint\LoginApiDemo.dll
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.pdb
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.genruntimeconfig.cache
+C:\yansi\MAUI\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\ref\LoginApiDemo.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\appsettings.json
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.exe
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.deps.json
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.runtimeconfig.json
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.pdb
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Dapper.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Common.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Data.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Model.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Service.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Data.pdb
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Service.pdb
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Common.pdb
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Model.pdb
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.csproj.AssemblyReference.cache
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.AssemblyInfoInputs.cache
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.AssemblyInfo.cs
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.csproj.CoreCompileInputs.cache
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.LoginApiDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginApiDemo.props
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginApiDemo.props
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginApiDemo.props
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\scopedcss\bundle\LoginApiDemo.styles.css
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.csproj.CopyComplete
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\refint\LoginApiDemo.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.pdb
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.genruntimeconfig.cache
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\ref\LoginApiDemo.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\yansi\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\appsettings.json
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.exe
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.deps.json
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.runtimeconfig.json
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.pdb
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Dapper.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Common.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Data.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Model.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Service.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Data.pdb
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Service.pdb
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Common.pdb
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\bin\Debug\net8.0\LoginApiDemo.Model.pdb
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.csproj.AssemblyReference.cache
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.AssemblyInfoInputs.cache
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.AssemblyInfo.cs
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.csproj.CoreCompileInputs.cache
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.LoginApiDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginApiDemo.props
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginApiDemo.props
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginApiDemo.props
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\scopedcss\bundle\LoginApiDemo.styles.css
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.csproj.CopyComplete
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\refint\LoginApiDemo.dll
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.pdb
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\LoginApiDemo.genruntimeconfig.cache
+C:\yansi\Learning\MAUI\Login Maui Xml\LoginApiDemo\LoginApiDemo\obj\Debug\net8.0\ref\LoginApiDemo.dll
